@@ -1,0 +1,5 @@
+{
+  "name": "VisionPrompt: Pose & Background Extractor",
+  "description": "Extract detailed pose and background descriptions from images for AI prompt engineering.",
+  "requestFramePermissions": []
+}
